@@ -1,6 +1,1 @@
-This is the changes made from GitHub
-This is the changes made from GitHub 02
-test from github
-This is the changes made from GitHub
-
-This change is from Git
+This changes are from Github
